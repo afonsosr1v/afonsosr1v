@@ -15,11 +15,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=afonsosr1v&icon=7&color=9)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=afonsosr1v&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
 
