@@ -7,11 +7,6 @@
 
 ![LTSpice](https://img.shields.io/badge/LTSPICE-800000.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAACIklEQVRIia2WO2gXQRCHv4sx+Aj4aARFbWzUNBF8ayUWGjBdEJGgjUIqsdBOC5HgAxREjS+wsrAQCwURg4ooPhstLIKCIOkiaCRghHxyYS6c/9z9H0l+sMzc7Oz+ZnZ2lksA1H3AHWpjCTAMjAArgHlVVqR7L0uS5AlBMqw+U9tUSsYx9b3aqm7yf4wWjBRPJyjV8+px9Yt6qYDkRizqie/D6QbqY8vxXJ2fJ+mLxUvVfvWr2hW2vbHNQEmG69XfFVQ/s/kUTcGTyUFgB3AFWBu2syFvl5z9O+BAhe3QJC/1ekmUu3PRraxSr3T8Cr/BvD2fQRmyiD4B36r4pbesOfRzlZPVSFqBXaG/qhHMZmBu6DcbIekGWkJfVYOkK+TH6KPJKKnJQK4eY2p7HfXorJybQAHJ5YLbP6TuV2eHz5yQHTH/sCiAIpIW9WqVBsuQvhBr1EXx/VZtUpMikuxGjIXcCqwDHgB/C0429V8M/AA+A6uBo8AFIH3/esM2UlSTa7lMqvVC2Tihvla71eayTJKQozVuUSW2A6eBIaAjZGH6U0X69GwBLlZ5csZRq+OLsAf4ACwENtYiaDSTtDFvAW3AKeBevQvrJekBDkZHtzcQWF0kyyP69GiOAC8bJaBGTU4C/cAbYMNUCchlMitnS8+8L/TOaLppIcvke8gzwH3gEbBtJghSZL9EL1IB/IkCZ6TTJ0iSiUwWAHeBnTNJMA7gHy+HqFc5ogb1AAAAAElFTkSuQmCC&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=afonsosr1v&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=afonsosr1v&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsosr1v&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=afonsosr1v&icon=7&color=9)](https://visitcount.itsvg.in)
 
